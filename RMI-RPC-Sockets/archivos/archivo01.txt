@@ -1,0 +1,16 @@
+archivo de PRUeba!
+Este es una prueBa que contien Varias PALABRAS como: PERRRO, (gato), KASNIAC, peRRoLOco
+
+Notar: se omiten los parentesis y las comas, asu como los puntos y mas signos de puntacion
+
+
+Prueba
+
+
+prueba
+
+
+hola.
+
+
+hoLA

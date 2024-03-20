@@ -1,0 +1,9 @@
+archivo de PRUeba!
+Este es una prueBa que contien Varias PALABRAS como: laLO, Nahual, loco, perro, Kasniac
+
+Notar: se omiten los parentesis y las comas, asu como los puntos y mas signos de puntacion
+
+
+PRUEBA
+PruEba
+PRUEBA
